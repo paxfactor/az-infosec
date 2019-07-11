@@ -8,10 +8,9 @@ footer: an event
 
 ## Meetups
 
-* TODO
+* [Phoenix OWASP](https://www.owasp.org/index.php/Phoenix)
+* [Central Cybersecurity Meetup](https://www.meetup.com/Central-Cyber-Security-Meetup/)
 
 ## Conferences
 
-* TODO
-
-## [Event Calendar]
+* [CactusCon](https://www.cactuscon.com/)
