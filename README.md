@@ -10,6 +10,7 @@ footer: an event
 
 * [Phoenix OWASP](https://www.owasp.org/index.php/Phoenix)
 * [Central Cybersecurity Meetup](https://www.meetup.com/Central-Cyber-Security-Meetup/)
+* [We Protect PHX](https://www.meetup.com/We-Protect-PHX/)
 
 ## Conferences
 
