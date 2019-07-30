@@ -14,7 +14,7 @@ footer: an event
 * [We Protect PHX](https://www.meetup.com/We-Protect-PHX/) - "We Protect PHX” is a Cybersecurity Leadership Council connecting the top Cybersecurity Director and C-Level leaders of today with the the up-and-coming leaders of tomorrow, to share fresh ideas, network like minds, and proactively guard against the threats of the future by creating a think-tank of the brightest minds in the Valley.
 * [EVSec](https://www.meetup.com/evsecaz/) - EVSec's goal is to discuss information security related topics of interest in a non-work, non-vendor setting; preferably over a beer and picking locks.
 * [DC480 - An Arizona Hacker Collective](https://dc480.io/index.html) - DC480 is a closed, invite only group. Any active DC480 member can invite others after they have attended their first meeting.
-* [ISC2 Phoenix Chapter](https://isc2chapter-phoenix.org/) - Events and opportunities for ISC2 credentialed members.
+* [ISC2 Phoenix Chapter](https://isc2chapter-phoenix.org/) and [ISC2 Tucson Chapter](http://www.isc2chapter-tucson.org/) - Events and opportunities for ISC2 credentialed members.
 
 ## Conferences
 
