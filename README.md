@@ -20,5 +20,5 @@ footer: an event
 
 ## Conferences
 
-* [CactusCon](https://www.cactuscon.com/) - CactusCon is the largest annual hacker and security conference in Arizona and this year is expected to attract 1,000 attendees from throughout the entire country. CFP for 2019 is now closed.
+* [CactusCon](https://www.cactuscon.com/) - CactusCon is the largest annual hacker and security conference in Arizona and this year is expected to attract 1,000 attendees from throughout the entire country.
 * [Cybersecurity Conferences in Arizona](https://infosec-conferences.com/us-state/arizona/) - Community-maintained directory of events.
